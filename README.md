@@ -41,7 +41,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/aubinishimwe2"><img alt="twitter" src="https://img.shields.io/badge/Twitter-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/ishimwe.aubin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="gmail:aubinjaja@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aubinjaja@gmail.com-blue?style=flat-square&logo=gmail"></a>
