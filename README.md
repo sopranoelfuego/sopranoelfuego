@@ -1,23 +1,16 @@
-<img src="https://raw.githubusercontent.com/sopranoelfuego/sopranoelfuego/master/assets/sopranoelfuego%20sopranoelfuego%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Aubin Ishimwe.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Software engineer tanganyika lake university.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about web development with new technologies.
-- ✍️ &nbsp; Pursuing backend development and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies , developing software solutions and quick hacks.
+- 🎓 &nbsp; Software engineer at tanganyika lake university.
+- 💼 &nbsp; Working as a Backend developper at Bluetec.
+- 🌱 &nbsp; Learning more about web3 development and design paterns.
+- ✍️ &nbsp; i'm currently learning Nestjs with microservices and working on my personal projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
@@ -32,10 +25,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 <br/>
