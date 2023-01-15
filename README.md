@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies , developing software solutions and quick hacks.
 - 🎓 &nbsp; Software engineer at tanganyika lake university.
-- 💼 &nbsp; Working as a fullstack developper at Bluetec.
+- 💼 &nbsp; Working as a React Frontend developper at Asyst Ressources ltd.
 - 🌱 &nbsp; Learning more about web3 development and design paterns.
 - ✍️ &nbsp; i'm currently learning Nestjs with microservices and working on my personal projects.
 
