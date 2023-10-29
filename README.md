@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Software engineer at tanganyika lake university.
 - 💼 &nbsp; Working as a React Frontend developper at Asyst Ressources ltd.
 - 🌱 &nbsp; Learning more about web3 development and design paterns.
-- ✍️ &nbsp; i'm currently learning Nextjs and working on personal projects.
+- ✍️ &nbsp; i'm currently learning cutting-edge frameworks based on react and working on personal projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
